@@ -31,7 +31,7 @@ I'm a first-year B.Tech student at Poornima College of Engineering, currently ex
 ### 🧩 Projects:
 > I'm currently uploading small programs like factorial, LCM, etc. to my [Learning Repository](https://github.com/bhavesh-exe/learning)
 
-> Also Creating some Mini Projects while Learning and will be uploading in a new Repo
+> Also Creating some Mini Projects while Learning and will be uploading in [Pyhton Projects Repository](https://github.com/Bhavesh-exe/Python-Projects)
 
 
 ### 🌱 Currently Learning:
@@ -48,7 +48,7 @@ I'm a first-year B.Tech student at Poornima College of Engineering, currently ex
 
 ### 📬 Let's Connect!
 - ✉️ Email: `bhaveshsoni.py@gmail.com` 
-- 🧑‍💻 GitHub: [bhavesh-exe](https://github.com/bhavesh-exe)
+- 🧑‍💻 GitHub: [bhavesh-exe](https://github.com/Bhavesh-exe)
 
 ---
 
