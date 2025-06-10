@@ -48,7 +48,8 @@ I'm a first-year B.Tech student at Poornima College of Engineering, currently ex
 
 ### 📬 Let's Connect!
 - ✉️ Email: `bhaveshsoni.exe@gmail.com` 
-- 🧑‍💻 GitHub: [bhavesh-exe](https://github.com/Bhavesh-exe)
+- 🧑‍💻 GitHub: [Bhavesh-exe](https://github.com/Bhavesh-exe)
+- 🧑‍💼 Linkedin: [Bhavesh Soni](https://linkedin.com/in/bhavesh-exe)
 
 ---
 
