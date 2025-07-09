@@ -35,11 +35,9 @@ I'm a first-year B.Tech student at Poornima College of Engineering, currently ex
 
 
 ### 🌱 Currently Learning:
-- Django Framework
-- Git & GitHub
-- Core CS fundamentals
-
-
+- Django Web Framework
+- Web Scrapping
+  
 ### 🎮 Hobbies & Interests:
 - 🎮 Gaming (Big fan of Story games like RDR2, God of War, Black Myth Wukong, The Last of us, Spiderman 2, etc. :))
 - 📺 Watching Movies, Series and Anime
